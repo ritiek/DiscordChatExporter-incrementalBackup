@@ -86,7 +86,7 @@ You can also schedule `backup.exe` to run periodically using Windows Task Schedu
 ## Configuration file
 
 - `tokens.name` - your name for the discord token
-- `tokens.token` - your discord token
+- `tokens.value` - your discord token
 - `guilds.tokenName` - your name for the discord token defined in `tokens.name`
 - `guilds.guildId` - the id of the guild you want to backup
 - `guilds.guildName` - name of the folder where the guild will be saved
